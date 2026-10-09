@@ -1,5 +1,5 @@
 module.exports = {
-  parser: "babel-eslint",
+  parser: "@babel/eslint-parser",
   env: {
     es6: true,
     node: true,
@@ -8,6 +8,10 @@ module.exports = {
   parserOptions: {
     ecmaVersion: 6,
     sourceType: "module",
+    requireConfigFile: false,
+    babelOptions: {
+      presets: [require.resolve("babel-preset-react-app/prod")]
+    },
     ecmaFeatures: {
       jsx: true
     }
