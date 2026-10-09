@@ -112,6 +112,7 @@ export default function HeaderLinks(props) {
             <a
               href="https://demos.creative-tim.com/material-kit-pro-react/#/documentation/tutorial?ref=mkpr-navbar"
               target="_blank"
+              rel="noopener noreferrer"
               className={classes.dropdownLink}
             >
               <Icon className={classes.dropdownIcons}>content_paste</Icon>
@@ -250,6 +251,7 @@ export default function HeaderLinks(props) {
           href="https://www.creative-tim.com/product/material-kit-pro-react?ref=mkpr-navbar"
           color={window.innerWidth < 960 ? "info" : "white"}
           target="_blank"
+          rel="noopener noreferrer"
           className={classes.navButton}
           round
         >

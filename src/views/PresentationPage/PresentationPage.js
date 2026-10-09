@@ -86,6 +86,7 @@ export default function PresentationPage() {
               <a
                 href="https://www.creative-tim.com/product/material-kit-pro-react?ref=mkpr-presentation"
                 target="_blank"
+                rel="noopener noreferrer"
                 className={classes.footerBrand}
               >
                 Material Kit PRO React
@@ -97,6 +98,7 @@ export default function PresentationPage() {
                   <a
                     href="https://www.creative-tim.com/?ref=mkpr-presentation"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     Creative Tim
@@ -106,6 +108,7 @@ export default function PresentationPage() {
                   <a
                     href="https://www.creative-tim.com/presentation?ref=mkpr-presentation"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     About us
@@ -120,6 +123,7 @@ export default function PresentationPage() {
                   <a
                     href="https://www.creative-tim.com/license?ref=mkpr-presentation"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     Licenses
@@ -133,6 +137,7 @@ export default function PresentationPage() {
                   <Button
                     href="https://twitter.com/CreativeTim?ref=creativetim"
                     target="_blank"
+                    rel="noopener noreferrer"
                     color="twitter"
                     justIcon
                     simple
@@ -144,6 +149,7 @@ export default function PresentationPage() {
                   <Button
                     href="https://dribbble.com/creativetim?ref=creativetim"
                     target="_blank"
+                    rel="noopener noreferrer"
                     color="dribbble"
                     justIcon
                     simple
@@ -155,6 +161,7 @@ export default function PresentationPage() {
                   <Button
                     href="https://instagram.com/CreativeTimOfficial?ref=creativetim"
                     target="_blank"
+                    rel="noopener noreferrer"
                     color="instagram"
                     justIcon
                     simple

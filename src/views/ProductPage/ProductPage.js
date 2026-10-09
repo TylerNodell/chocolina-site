@@ -470,6 +470,7 @@ export default function ProductPage() {
                   <a
                     href="https://www.creative-tim.com/?ref=mkpr-pricing"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     Creative Tim
@@ -479,6 +480,7 @@ export default function ProductPage() {
                   <a
                     href="https://www.creative-tim.com/presentation?ref=mkpr-pricing"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     About us
@@ -493,6 +495,7 @@ export default function ProductPage() {
                   <a
                     href="https://www.creative-tim.com/license?ref=mkpr-pricing"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     Licenses
@@ -506,6 +509,7 @@ export default function ProductPage() {
               <a
                 href="https://www.creative-tim.com?ref=mkpr-pricing"
                 target="_blank"
+                rel="noopener noreferrer"
                 className={classes.aClasses}
               >
                 Creative Tim

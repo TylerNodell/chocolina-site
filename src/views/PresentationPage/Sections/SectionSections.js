@@ -65,6 +65,7 @@ export default function SectionSections() {
                 <Button
                   color="rose"
                   target="_blank"
+                  rel="noopener noreferrer"
                   className={classes.navButton}
                   round
                 >

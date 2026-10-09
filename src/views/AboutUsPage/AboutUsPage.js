@@ -84,6 +84,7 @@ export default function AboutUsPage() {
                     href="https://www.creative-tim.com/?ref=mkpr-about-us"
                     className={classes.block}
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     Creative Tim
                   </a>
@@ -93,6 +94,7 @@ export default function AboutUsPage() {
                     href="https://www.creative-tim.com/presentation?ref=mkpr-about-us"
                     className={classes.block}
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     About us
                   </a>
@@ -102,6 +104,7 @@ export default function AboutUsPage() {
                     href="//blog.creative-tim.com/"
                     className={classes.block}
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     Blog
                   </a>
@@ -111,6 +114,7 @@ export default function AboutUsPage() {
                     href="https://www.creative-tim.com/license?ref=mkpr-about-us"
                     className={classes.block}
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     Licenses
                   </a>
@@ -123,6 +127,7 @@ export default function AboutUsPage() {
               <a
                 href="https://www.creative-tim.com?ref=mkpr-about-us"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 Creative Tim
               </a>{" "}

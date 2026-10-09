@@ -47,6 +47,7 @@ export default function SectionFooter() {
                 <a
                   href="https://www.creative-tim.com/product/material-kit-pro-react?ref=mkpr-footer-components"
                   target="_blank"
+                  rel="noopener noreferrer"
                   className={classes.footerBrand}
                 >
                   Material Kit PRO React
@@ -58,6 +59,7 @@ export default function SectionFooter() {
                     <a
                       href="https://www.creative-tim.com/?ref=mkpr-footer-components"
                       target="_blank"
+                      rel="noopener noreferrer"
                       className={classes.block}
                     >
                       Creative Tim
@@ -67,6 +69,7 @@ export default function SectionFooter() {
                     <a
                       href="https://www.creative-tim.com/presentation?ref=mkpr-footer-components"
                       target="_blank"
+                      rel="noopener noreferrer"
                       className={classes.block}
                     >
                       About us
@@ -84,6 +87,7 @@ export default function SectionFooter() {
                     <a
                       href="https://www.creative-tim.com/license?ref=mkpr-footer-components"
                       target="_blank"
+                      rel="noopener noreferrer"
                       className={classes.block}
                     >
                       Licenses
@@ -97,6 +101,7 @@ export default function SectionFooter() {
                     <Button
                       href="https://twitter.com/CreativeTim?ref=creativetim"
                       target="_blank"
+                      rel="noopener noreferrer"
                       color="twitter"
                       justIcon
                       simple
@@ -108,6 +113,7 @@ export default function SectionFooter() {
                     <Button
                       href="https://dribbble.com/creativetim?ref=creativetim"
                       target="_blank"
+                      rel="noopener noreferrer"
                       color="dribbble"
                       justIcon
                       simple
@@ -119,6 +125,7 @@ export default function SectionFooter() {
                     <Button
                       href="https://instagram.com/CreativeTimOfficial?ref=creativetim"
                       target="_blank"
+                      rel="noopener noreferrer"
                       color="google"
                       justIcon
                       simple
@@ -142,6 +149,7 @@ export default function SectionFooter() {
                     <a
                       href="https://www.creative-tim.com/?ref=mkpr-footer-components"
                       target="_blank"
+                      rel="noopener noreferrer"
                       className={classes.block}
                     >
                       Creative Tim
@@ -151,6 +159,7 @@ export default function SectionFooter() {
                     <a
                       href="https://www.creative-tim.com/presentation?ref=mkpr-footer-components"
                       target="_blank"
+                      rel="noopener noreferrer"
                       className={classes.block}
                     >
                       About us
@@ -168,6 +177,7 @@ export default function SectionFooter() {
                     <a
                       href="https://www.creative-tim.com/license?ref=mkpr-footer-components"
                       target="_blank"
+                      rel="noopener noreferrer"
                       className={classes.block}
                     >
                       Licenses
@@ -181,6 +191,7 @@ export default function SectionFooter() {
                 <a
                   href="https://www.creative-tim.com?ref=mkpr-footer-components"
                   target="_blank"
+                  rel="noopener noreferrer"
                   className={classes.aClasses}
                 >
                   Creative Tim
@@ -200,6 +211,7 @@ export default function SectionFooter() {
                 <a
                   href="https://www.creative-tim.com/product/material-kit-pro-react?ref=mkpr-footer-components"
                   target="_blank"
+                  rel="noopener noreferrer"
                   className={classes.footerBrand}
                 >
                   Material Kit PRO React
@@ -211,6 +223,7 @@ export default function SectionFooter() {
                     <a
                       href="http://blog.creative-tim.com/?ref=mkpr-footer-components"
                       target="_blank"
+                      rel="noopener noreferrer"
                       className={classes.block}
                     >
                       Blog
@@ -220,6 +233,7 @@ export default function SectionFooter() {
                     <a
                       href="https://www.creative-tim.com/presentation?ref=mkpr-footer-components"
                       target="_blank"
+                      rel="noopener noreferrer"
                       className={classes.block}
                     >
                       Presentation
@@ -247,6 +261,7 @@ export default function SectionFooter() {
                     <a
                       href="https://www.creative-tim.com/contact-us?ref=mkpr-footer-components"
                       target="_blank"
+                      rel="noopener noreferrer"
                       className={classes.block}
                     >
                       Contact us
@@ -260,6 +275,7 @@ export default function SectionFooter() {
                     <Button
                       href="https://twitter.com/CreativeTim?ref=creativetim"
                       target="_blank"
+                      rel="noopener noreferrer"
                       color="white"
                       justIcon
                       simple
@@ -271,6 +287,7 @@ export default function SectionFooter() {
                     <Button
                       href="https://dribbble.com/creativetim?ref=creativetim"
                       target="_blank"
+                      rel="noopener noreferrer"
                       color="white"
                       justIcon
                       simple
@@ -282,6 +299,7 @@ export default function SectionFooter() {
                     <Button
                       href="https://instagram.com/CreativeTimOfficial?ref=creativetim"
                       target="_blank"
+                      rel="noopener noreferrer"
                       color="white"
                       justIcon
                       simple
@@ -354,6 +372,7 @@ export default function SectionFooter() {
                 <a
                   href="https://www.creative-tim.com?ref=mkpr-footer-components"
                   target="_blank"
+                  rel="noopener noreferrer"
                   className={classes.aClasses}
                 >
                   Creative Tim
@@ -485,6 +504,7 @@ export default function SectionFooter() {
               <a
                 href="https://www.creative-tim.com?ref=mkpr-footer-components"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 Creative Tim
               </a>{" "}
@@ -638,6 +658,7 @@ export default function SectionFooter() {
                 <a
                   href="https://www.creative-tim.com?ref=mkpr-footer-components"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   Creative Tim
                 </a>{" "}

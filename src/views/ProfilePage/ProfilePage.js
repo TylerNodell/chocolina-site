@@ -499,6 +499,7 @@ export default function ProfilePage({ ...rest }) {
                   <a
                     href="https://www.creative-tim.com/?ref=mkpr-profile"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     Creative Tim
@@ -508,6 +509,7 @@ export default function ProfilePage({ ...rest }) {
                   <a
                     href="https://www.creative-tim.com/presentation?ref=mkpr-profile"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     About us
@@ -522,6 +524,7 @@ export default function ProfilePage({ ...rest }) {
                   <a
                     href="https://www.creative-tim.com/license?ref=mkpr-profile"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     Licenses
@@ -535,6 +538,7 @@ export default function ProfilePage({ ...rest }) {
               <a
                 href="https://www.creative-tim.com?ref=mkpr-profile"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 Creative Tim
               </a>{" "}

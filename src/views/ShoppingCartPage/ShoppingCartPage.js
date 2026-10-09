@@ -301,6 +301,7 @@ export default function ShoppingCartPage() {
                   <a
                     href="https://www.creative-tim.com/?ref=mkpr-shopping-cart"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     Creative Tim
@@ -310,6 +311,7 @@ export default function ShoppingCartPage() {
                   <a
                     href="https://www.creative-tim.com/presentation?ref=mkpr-shopping-cart"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     About us
@@ -319,6 +321,7 @@ export default function ShoppingCartPage() {
                   <a
                     href="https://blog.creative-tim.com/?ref=mkpr-shopping-cart"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     Blog
@@ -328,6 +331,7 @@ export default function ShoppingCartPage() {
                   <a
                     href="https://www.creative-tim.com/license?ref=mkpr-shopping-cart"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     Licenses
@@ -341,6 +345,7 @@ export default function ShoppingCartPage() {
               <a
                 href="https://www.creative-tim.com?ref=mkpr-shopping-cart"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 Creative Tim
               </a>{" "}
