@@ -161,6 +161,7 @@ export default function EcommercePage() {
                   <a
                     href="http://blog.creative-tim.com/?ref=mkpr-e-ecommerce"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     Blog
@@ -170,6 +171,7 @@ export default function EcommercePage() {
                   <a
                     href="https://www.creative-tim.com/presentation?ref=mkpr-e-ecommerce"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     Presentation
@@ -197,6 +199,7 @@ export default function EcommercePage() {
                   <a
                     href="https://www.creative-tim.com/contact-us?ref=mkpr-e-ecommerce"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     Contact us
@@ -209,6 +212,7 @@ export default function EcommercePage() {
               <a
                 href="https://www.creative-tim.com?ref=mkpr-e-ecommerce"
                 target="_blank"
+                rel="noopener noreferrer"
                 className={classes.aClasses}
               >
                 Creative Tim

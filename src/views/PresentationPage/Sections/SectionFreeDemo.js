@@ -44,6 +44,7 @@ export default function SectionFreeDemo() {
               href="https://demos.creative-tim.com/material-kit-react/#/?ref=mkpr-free-demo-section-presentation"
               color="rose"
               target="_blank"
+              rel="noopener noreferrer"
               round
             >
               View demo on github

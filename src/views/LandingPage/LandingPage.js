@@ -72,6 +72,7 @@ export default function LandingPage({ ...rest }) {
                 size="lg"
                 href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ref=creativetim"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <i className="fas fa-play" />
                 Watch video
@@ -122,6 +123,7 @@ export default function LandingPage({ ...rest }) {
                   <a
                     href="https://www.creative-tim.com/?ref=mkpr-landing"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     Creative Tim
@@ -131,6 +133,7 @@ export default function LandingPage({ ...rest }) {
                   <a
                     href="https://www.creative-tim.com/presentation?ref=mkpr-landing"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     About us
@@ -145,6 +148,7 @@ export default function LandingPage({ ...rest }) {
                   <a
                     href="https://www.creative-tim.com/license?ref=mkpr-landing"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     Licenses
@@ -158,6 +162,7 @@ export default function LandingPage({ ...rest }) {
               <a
                 href="https://www.creative-tim.com/?ref=mkpr-landing"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 Creative Tim
               </a>{" "}

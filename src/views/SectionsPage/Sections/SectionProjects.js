@@ -179,6 +179,7 @@ export default function SectionProjects({ ...rest }) {
                 <a
                   href="https://www.creative-tim.com/product/material-kit-react?ref=mkpr-projects-section-sections"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <CardHeader image plain>
                     <img
@@ -201,6 +202,7 @@ export default function SectionProjects({ ...rest }) {
                   <a
                     href="https://www.creative-tim.com/product/material-kit-react?ref=mkpr-projects-section-sections"
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <h4 className={classes.cardTitle}>
                       Material Kit Free React
@@ -223,6 +225,7 @@ export default function SectionProjects({ ...rest }) {
                 <a
                   href="https://www.creative-tim.com/product/light-bootstrap-dashboard-pro-react?ref=mkpr-projects-section-sections"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <CardHeader image plain>
                     <img
@@ -243,6 +246,7 @@ export default function SectionProjects({ ...rest }) {
                   <a
                     href="https://www.creative-tim.com/product/light-bootstrap-dashboard-pro-react?ref=mkpr-projects-section-sections"
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <h4 className={classes.cardTitle}>
                       Light Bootstrap Dashboard PRO React
@@ -265,6 +269,7 @@ export default function SectionProjects({ ...rest }) {
                 <a
                   href="https://www.creative-tim.com/product/now-ui-dashboard-pro-react?ref=mkpr-projects-section-sections"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <CardHeader image plain>
                     <img
@@ -285,6 +290,7 @@ export default function SectionProjects({ ...rest }) {
                   <a
                     href="https://www.creative-tim.com/product/now-ui-dashboard-pro-react?ref=mkpr-projects-section-sections"
                     target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <h4 className={classes.cardTitle}>
                       Now UI Dashboard PRO React

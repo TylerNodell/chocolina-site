@@ -294,6 +294,7 @@ export default function Components() {
                   <a
                     href="https://www.creative-tim.com/?ref=mkpr-components"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     Creative Tim
@@ -303,6 +304,7 @@ export default function Components() {
                   <a
                     href="https://www.creative-tim.com/presentation?ref=mkpr-components"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     About us
@@ -317,6 +319,7 @@ export default function Components() {
                   <a
                     href="https://www.creative-tim.com/license?ref=mkpr-components"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.block}
                   >
                     Licenses
@@ -330,6 +333,7 @@ export default function Components() {
               <a
                 href="https://www.creative-tim.com?ref=mkpr-components"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 Creative Tim
               </a>{" "}

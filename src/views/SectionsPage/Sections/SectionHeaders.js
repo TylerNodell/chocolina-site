@@ -99,6 +99,7 @@ export default function SectionHeaders({ ...rest }) {
                     color="transparent"
                     href="https://twitter.com/CreativeTim?ref=creativetim"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.navLink + " " + classes.navLinkJustIcon}
                   >
                     <i className={"fab fa-twitter"} />
@@ -109,6 +110,7 @@ export default function SectionHeaders({ ...rest }) {
                     color="transparent"
                     href="https://www.facebook.com/CreativeTim?ref=creativetim"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.navLink + " " + classes.navLinkJustIcon}
                   >
                     <i className={"fab fa-facebook"} />
@@ -119,6 +121,7 @@ export default function SectionHeaders({ ...rest }) {
                     color="transparent"
                     href="https://www.instagram.com/CreativeTimOfficial?ref=creativetim"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.navLink + " " + classes.navLinkJustIcon}
                   >
                     <i className={"fab fa-instagram"} />
@@ -147,7 +150,7 @@ export default function SectionHeaders({ ...rest }) {
                   size="lg"
                   href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ref=creativetim"
                   target="_blank"
-                  rel=""
+                  rel="noopener noreferrer"
                 >
                   <i className="fas fa-ticket-alt" />
                   Order Now
@@ -226,6 +229,7 @@ export default function SectionHeaders({ ...rest }) {
                     color="transparent"
                     href="https://twitter.com/CreativeTim?ref=creativetim"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.navLink + " " + classes.navLinkJustIcon}
                   >
                     <i className={"fab fa-twitter"} />
@@ -236,6 +240,7 @@ export default function SectionHeaders({ ...rest }) {
                     color="transparent"
                     href="https://www.facebook.com/CreativeTim?ref=creativetim"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.navLink + " " + classes.navLinkJustIcon}
                   >
                     <i className={"fab fa-facebook"} />
@@ -246,6 +251,7 @@ export default function SectionHeaders({ ...rest }) {
                     color="transparent"
                     href="https://www.instagram.com/CreativeTimOfficial?ref=creativetim"
                     target="_blank"
+                    rel="noopener noreferrer"
                     className={classes.navLink + " " + classes.navLinkJustIcon}
                   >
                     <i className={"fab fa-instagram"} />

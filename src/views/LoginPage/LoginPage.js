@@ -161,6 +161,7 @@ export default function LoginPage() {
                     <a
                       href="https://www.creative-tim.com/?ref=mkpr-login"
                       target="_blank"
+                      rel="noopener noreferrer"
                       className={classes.block}
                     >
                       Creative Tim
@@ -170,6 +171,7 @@ export default function LoginPage() {
                     <a
                       href="https://www.creative-tim.com/presentation?ref=mkpr-login"
                       target="_blank"
+                      rel="noopener noreferrer"
                       className={classes.block}
                     >
                       About us
@@ -187,6 +189,7 @@ export default function LoginPage() {
                     <a
                       href="https://www.creative-tim.com/license?ref=mkpr-login"
                       target="_blank"
+                      rel="noopener noreferrer"
                       className={classes.block}
                     >
                       Licenses
@@ -200,6 +203,7 @@ export default function LoginPage() {
                 <a
                   href="https://www.creative-tim.com?ref=mkpr-login"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   Creative Tim
                 </a>{" "}

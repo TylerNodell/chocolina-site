@@ -207,6 +207,7 @@ export default function SectionJavascript() {
                           <a
                             href="https://www.creative-tim.com/?ref=mkpr-javascript-components"
                             target="_blank"
+                            rel="noopener noreferrer"
                           >
                             Creative Tim
                           </a>
@@ -226,6 +227,7 @@ export default function SectionJavascript() {
                           <a
                             href="https://www.creative-tim.com/?ref=mkpr-javascript-components"
                             target="_blank"
+                            rel="noopener noreferrer"
                           >
                             Creative Tim
                           </a>
